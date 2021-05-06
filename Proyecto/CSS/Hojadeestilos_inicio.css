@@ -1,0 +1,66 @@
+header{
+    text-align: center;
+    color: black;
+    background-color: yellow;    
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+html{
+    background-image: url("../Img/papel3.jpg");
+}
+.gif{
+    width: 250px;
+    height: 250px;
+}
+a:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+a:visited{
+    color: yellow;
+    text-decoration: green;
+}
+a:hover{
+    color: purple;
+    text-decoration: seagreen;
+}
+a:active{
+    color: red;
+}
+a::after{
+    color:chocolate;
+}
+footer{
+    text-align: center;
+    color:green;
+    text-align: center;
+}
+body{
+    color: white;
+}
+.aliados{
+    width: 250px;
+    height: 300px;
+}
+table.si{
+    border: solid 1px yellow;
+    border-color: yellow;
+}
+tr.tambien{
+    border: solid 1px yellow;
+    border-color: yellow;   
+}
+td{
+    border-color: yellow;
+}
+.lahistoria{
+    padding-left: 200px;
+    width: 300px;
+    height: 250px;
+}
+.centro{
+    text-align: center;
+}
+table.nob{
+    color: whitesmoke;
+}
